@@ -51,7 +51,7 @@
 			]
 		},
         "properties": {
-            "stroke-width": 3,
+            "stroke-width": 10,
             "stroke": "#ABCDEF",
             "name": "LineString"
         }
