@@ -7,7 +7,7 @@
 				"category":"Teatr",
 				"city":"Poznań",
 				"street":"27 Grudnia 8/10",
-				"marker-color": "#EFDCBA"
+				"marker-color": "#EFD"
 			},
 			"geometry": {
 				"type": "Point",
