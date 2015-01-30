@@ -36,7 +36,7 @@
 			}
 		},
 		{
-		"type": "Feature"
+		"type": "Feature",
 		"geometry": {
 			"type": "LineString",
 			"coordinates": [
@@ -50,11 +50,11 @@
 				]
 			]
 		},
-		"properties": {
-			"stroke-width": 1,
-			"stroke": "#ABCDEF",
-			"name": "LineString"
-		}
+        "properties": {
+            "stroke-width": 1,
+            "stroke": "#ABCDEF",
+            "name": "LineString"
+        }
 	}
 	]
 }
