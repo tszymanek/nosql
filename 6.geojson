@@ -17,12 +17,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": 
-      {
-				"category":"Teatr",
-				"city":"Poznań",
-				"street":"Fredry 9"
-			},
+			"properties": {},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [			
@@ -33,12 +28,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties": 
-      {
-				"category":"Teatr",
-				"city":"Poznań",
-				"street":"Niezłomnych 1 E"
-			},
+			"properties": {},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
@@ -49,12 +39,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties":
-      {
-				"category":"Teatr",
-				"city":"Poznań",
-				"street":"Dąbrowskiego 5"
-			},
+			"properties":{},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
@@ -65,12 +50,7 @@
 		},
 		{
 			"type": "Feature",
-			"properties":
-      {
-				"category":"Teatr",
-				"city":"Gniezno",
-				"street":"Mickiewicza 9"
-			},
+			"properties":{},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
