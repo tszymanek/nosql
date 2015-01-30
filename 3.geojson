@@ -1,0 +1,61 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{
+		"type":"Feature",
+		"properties":
+		{
+			"category":"Teatr",
+			"city":"Kwidzyn",
+			"street":"Katedralna"
+		},
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[
+					18.922812,
+					53.736236
+				]
+			}
+		},
+		{
+		"type":"Feature",
+		"properties":
+		{
+			"category":"Teatr",
+			"city":"Bydgoszcz",
+			"street":"Adama Mickiewicza 2"
+		},
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[
+					18.01133,
+					53.13115
+				]
+			}
+		},
+		{
+		"type": "Feature"
+		"geometry": {
+			"coordinates": [
+				[
+					18.922812,
+					53.736236
+				]
+				[
+					18.01133,
+			   		53.13115
+				]
+			],
+			"type": "LineString",
+			"_id": "String"
+		},
+		"properties": {
+			"stroke-width": 1,
+			"stroke": "#ABCDEF",
+			"name": "LineString"
+		}
+	}
+	]
+}
