@@ -1,23 +1,6 @@
 {
 	"type":"FeatureCollection",
 	"features":[
-	{
-		"type":"Feature",
-		"properties":
-		{
-			"category":"Teatr",
-			"city":"Gdańsk",
-			"street":"Św. Ducha 2"
-		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					18.64872,
-					54.35133
-				]
-			}
-		},
 		{
 		"type":"Feature",
 		"properties":
@@ -74,23 +57,6 @@
 		"properties":
 		{
 			"category":"Teatr",
-			"city":"Poznań",
-			"street":"27 Grudnia 8/10"
-		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					16.92366,
-          52.40858
-				]
-			}
-		},
-		{
-		"type":"Feature",
-		"properties":
-		{
-			"category":"Teatr",
 			"city":"Gniezno",
 			"street":"Mickiewicza 9"
 		},
@@ -117,23 +83,6 @@
 				"coordinates":[
 					19.69226,
 					52.548696
-				]
-			}
-		},
-		{
-		"type":"Feature",
-		"properties":
-		{
-			"category":"Teatr",
-			"city":"Warszawa",
-			"street":"Grójecka"
-		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					20.97997,
-					52.21448
 				]
 			}
 		},
