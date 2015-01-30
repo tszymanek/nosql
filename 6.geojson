@@ -3,10 +3,8 @@
 	"features": [
 		{
 			"type": "Feature",
-			"properties": {
-				"category":"Teatr",
-				"city":"Poznań",
-				"street":"27 Grudnia 8/10",
+			"properties": 
+      {
 				"marker-color": "#EFD"
 			},
 			"geometry": {
@@ -19,7 +17,8 @@
 		},
 		{
 			"type": "Feature",
-			"properties": {
+			"properties": 
+      {
 				"category":"Teatr",
 				"city":"Poznań",
 				"street":"Fredry 9"
@@ -34,7 +33,8 @@
 		},
 		{
 			"type": "Feature",
-			"properties": {
+			"properties": 
+      {
 				"category":"Teatr",
 				"city":"Poznań",
 				"street":"Niezłomnych 1 E"
@@ -49,7 +49,8 @@
 		},
 		{
 			"type": "Feature",
-			"properties": {
+			"properties":
+      {
 				"category":"Teatr",
 				"city":"Poznań",
 				"street":"Dąbrowskiego 5"
@@ -64,7 +65,8 @@
 		},
 		{
 			"type": "Feature",
-			"properties": {
+			"properties":
+      {
 				"category":"Teatr",
 				"city":"Gniezno",
 				"street":"Mickiewicza 9"
