@@ -9,14 +9,14 @@
 			"city":"Gdańsk",
 			"street":"Jaśkowa Dolina 45"
 		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					18.59538,
-					54.37265
-				]
-			}
+		"geometry":
+		{
+			"type":"Point",
+			"coordinates":[
+				18.59538,
+				54.37265
+			]
+		}
 	},
 	{
 		"type":"Feature",
@@ -26,14 +26,14 @@
 			"city":"Gdańsk",
 			"street":"Grunwaldzka 16"
 		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					18.61817,
-					54.37496
-				]
-			}
+		"geometry":
+		{
+			"type":"Point",
+			"coordinates":[
+				18.61817,
+				54.37496
+			]
+		}
 	},
 	{
 		"type":"Feature",
@@ -43,13 +43,14 @@
 			"city":"Sopot",
 			"street":"Bohaterów Monte Cassino 30"
 		},
-			"geometry":
-			{
-				"type":"Point",
-				"coordinates":[
-					18.565293,
-					54.443617
-				]
-			}
+		"geometry":
+		{
+			"type":"Point",
+			"coordinates":[
+				18.565293,
+				54.443617
+			]
+		}
 	}
+	]
 }
