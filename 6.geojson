@@ -6,7 +6,7 @@
 			"properties": {
 				"category":"Teatr",
 				"city":"Poznań",
-				"street":"27 Grudnia 8/10"
+				"street":"27 Grudnia 8/10",
 				"marker-color": "#EFDCBA"
 			},
 			"geometry": {
