@@ -1,0 +1,81 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"category":"Teatr",
+				"city":"Poznań",
+				"street":"27 Grudnia 8/10"
+				"marker-color": "#EFDCBA"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.92366,
+					52.40858
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"category":"Teatr",
+				"city":"Poznań",
+				"street":"Fredry 9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [			
+					16.91759,
+					52.4102 
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"category":"Teatr",
+				"city":"Poznań",
+				"street":"Niezłomnych 1 E"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.92284,
+					52.4023
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"category":"Teatr",
+				"city":"Poznań",
+				"street":"Dąbrowskiego 5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.91255,
+					52.41114
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"category":"Teatr",
+				"city":"Gniezno",
+				"street":"Mickiewicza 9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.60138,
+					52.53351
+				]
+			}
+		}
+	]
+}
