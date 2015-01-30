@@ -6,15 +6,15 @@
 		"properties":
 		{
 			"category":"Teatr",
-			"city":"Kwidzyn",
-			"street":"Katedralna"
+			"city":"Gdynia",
+			"street":"Plac Grunwaldzki 1"
 		},
 			"geometry":
 			{
 				"type":"Point",
 				"coordinates":[
-					18.922812,
-					53.736236
+					18.54547,
+					54.51667
 				]
 			}
 		},
@@ -23,33 +23,32 @@
 		"properties":
 		{
 			"category":"Teatr",
-			"city":"Bydgoszcz",
-			"street":"Adama Mickiewicza 2"
+			"city":"Cieszyn",
+			"street":"Teatralny 1"
 		},
 			"geometry":
 			{
 				"type":"Point",
 				"coordinates":[
-					18.01133,
-					53.13115
+					18.630601,
+					49.749955
 				]
 			}
 		},
 		{
 		"type": "Feature"
 		"geometry": {
+			"type": "LineString",
 			"coordinates": [
 				[
-					18.922812,
-					53.736236
-				]
+					18.54547,
+					54.51667
+				],
 				[
-					18.01133,
-			   		53.13115
+					18.630601,
+					49.749955
 				]
-			],
-			"type": "LineString",
-			"_id": "String"
+			]
 		},
 		"properties": {
 			"stroke-width": 1,
